@@ -3,3 +3,9 @@ img {
   height: 30%;
   float: left;
 }
+
+.sidebar {
+  width:auto;
+  float: left;
+  background-color: green;
+}
